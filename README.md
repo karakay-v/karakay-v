@@ -121,23 +121,3 @@
         </tr>
     </table>
 </div>
-
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-    <table align="center">
-        <tr>
-            <td colspan="2" align="center">
-                <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Karakay-V&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Karakay-V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
-            </td>
-            <td align="center">
-                <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karakay-V&layout=donut-vertical&langs_count=10&theme=transparent&hide_border=true" />
-            </td>
-        </tr>
-    </table>
-</div>
